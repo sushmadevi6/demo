@@ -1,0 +1,121 @@
+    1  touch file1
+    2  git init
+    3  git commit -m "first commit"
+    4  git config --global user.email "sushmdevi56.sd@gmail.com"
+    5  git config --global user.name "sushmadevi6"
+    6  git commit -m "commit"
+    7  git add *
+    8  git commit -m "commit"
+    9  git branch -M main
+   10  git remote add origin https://github.com/sushmadevi6/demo.git
+   11  git push -u origin main
+   12  git push -u origin main
+   13  git push -u origin main
+   14  git push -u origin main
+   15  origin/main
+   16  git push -u origin main
+   17  ls
+   18  git init
+   19  ls -al
+   20  git commit -m "first commit"
+   21  git add *
+   22  git commit  -m  "commit"
+   23  git branch -m main
+   24  git remote add origin htpps://github.com/sushmadevi56/demo.git
+   25  git push -u origin main
+   26  git branch -M main
+   27  $ git push -u origin main
+   28  Everything up-to-date
+   29  branch 'main' set up to track 'origin/main'.
+   30  git status
+   31  git reset --
+   32  git reset HEAD~2
+   33  git status
+   34  git reset --hard HEAD^
+   35  git init
+   36  git list
+   37  git -ls -file1
+   38  git log
+   39  ls
+   40  code .
+   41  code .
+   42  ls
+   43  code .
+   44  code .
+   45  touch app.py
+   46  touch test.py
+   47  touch .gitignore
+   48  git init
+   49  git status
+   50  ls
+   51  ls -al
+   52  git status
+   53  git add *
+   54  git status
+   55  git checkout -b 'sushma'
+   56  git commit -m "sushma files"
+   57  git remote add origin https://github.com/sushmadevi6/june-demo.git
+   58  git push -u origin sushma
+   59  git status
+   60  git log
+   61  git checkout -b main
+   62  git branch
+   63  git status
+   64  git checkout swetha
+   65  git checkout -b swetha
+   66  git status
+   67  git add *
+   68  git status
+   69  git commit -m "swetha"
+   70  git push -u origin swetha
+   71  git pull origin swetha
+   72  git add *
+   73  git status
+   74  git commit
+   75  git init
+   76  git status
+   77  git commmit
+   78  git add *
+   79  git status
+   80  git log
+   81  git pull origin swetha
+   82  git add *
+   83   "git config advice.addIgnoredFile false
+   84  "
+   85  git checkout main
+   86  git commit
+   87  git commit
+   88  git log
+   89  git status
+   90  git add *
+   91  git checkout main
+   92  git add *
+   93  git commit -m "main"
+   94  git push -u origin main
+   95  git log
+   96  git push swetha file
+   97  git init
+   98  git init
+   99  git status
+  100  git add *
+  101  git status
+  102  git commit
+  103  git log
+  104  git chechout swetha
+  105  git checkout swetha
+  106  git commit
+  107  git commit
+  108  git add *
+  109  git status
+  110  git commit
+  111  git status
+  112  git history
+  113  history
+  114  git log
+  115  git push -u origin swetha
+  116  git clone https://github.com/sushmadevi6/demo.git
+  117  ll
+  118  cd demo/
+  119  ll
+  120  ls
+  121  history>commands.txt
